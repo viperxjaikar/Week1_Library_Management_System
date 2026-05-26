@@ -84,7 +84,7 @@ Week1/
 
 ```bash
 # 1. Clone the repository
-https://github.com/viperxjaikar/Week1_Library_Management_System.git
+git clone https://github.com/viperxjaikar/library-management-system.git
 cd library-management-system/Week1
 
 # 2. Compile all Java files
