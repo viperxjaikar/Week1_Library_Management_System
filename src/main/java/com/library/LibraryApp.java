@@ -11,11 +11,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- * Main Application class for Library Management System
- *
- * @author Gonuguntala Jaikar Ramu
- */
+
 public class LibraryApp {
 
     private static final LibraryService libraryService = new LibraryService();
